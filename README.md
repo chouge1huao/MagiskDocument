@@ -5,5 +5,5 @@
 # 参考文档
 
 －[Magisk官方文档](https://topjohnwu.github.io/Magisk/)
-
-－[Magisk德尔塔文档](https://huskydg.github.io/magisk-files/)
+![](1.png)
+[Magisk德尔塔文档](https://huskydg.github.io/magisk-files/)
