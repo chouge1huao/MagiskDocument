@@ -6,4 +6,4 @@
 
 －[Magisk官方文档]()
 
-－[Magisk德尔塔文档]()
+－[Magisk德尔塔文档](https://huskydg.github.io/magisk-files/)
