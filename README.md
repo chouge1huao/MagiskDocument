@@ -16,8 +16,6 @@
 []()
 []()
 []()
-## Kitsune Mask(Magisk Delta)
-![](1.png)
 
 
 ## 参考文档
