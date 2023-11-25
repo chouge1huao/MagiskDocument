@@ -20,6 +20,6 @@
 
 ## Kitsune Mask(Magisk Delta)
 ![](1.png)
-[主页](2.md)       
+#### [主页](2.md)       
 [常见问题](2常见问题.md)     
 [内部文档](2内部文档.md)     
