@@ -45,7 +45,7 @@ Zygisk next
 Zygisk/Riru LSposed       
 [Github](https://github.com/LSPosed/LSPosed/releases)/[云盘]()      
 Riru     
-[Github]()/[云盘]()      
+[Github](https://github.com/RikkaApps/Riru/releases)/[云盘]()      
 Riru EdXposed     
 [Github](https://github.com/ElderDrivers/EdXposed/releases)/[云盘]()      
 EdXposed Manager     
