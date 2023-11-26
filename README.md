@@ -35,4 +35,4 @@
 ### 下载(温馨提示:云盘只有最新版)      
 github下载慢可使用[github代理加速](https://moeyy.cn/gh-proxy/)       
 Magisk
-[]()/[]()
+[Github](https://github.com/topjohnwu/Magisk/releases)/[]()
