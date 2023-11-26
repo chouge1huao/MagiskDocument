@@ -35,4 +35,16 @@
 ### 下载(温馨提示:云盘只有最新版)      
 github下载慢可使用[github代理加速](https://moeyy.cn/gh-proxy/)       
 Magisk       
-[Github](https://github.com/topjohnwu/Magisk/releases)/[]()       
+[Github](https://github.com/topjohnwu/Magisk/releases)/[云盘]()       
+Kitsune Mask
+[Github]()/[云盘]()      
+Zygisk/Riru LSposed       
+[Github]()/[云盘]()      
+Riru     
+[Github]()/[云盘]()      
+Riru EdXposed     
+[Github]()/[云盘]()      
+太极     
+[Github]()/[云盘]()      
+Sui     
+[Github]()/[云盘]()      
