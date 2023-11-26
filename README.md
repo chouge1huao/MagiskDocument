@@ -43,7 +43,7 @@ Zygisk/Riru LSposed
 Riru     
 [Github]()/[云盘]()      
 Riru EdXposed     
-[Github]()/[云盘]()      
+[Github](https://github.com/ElderDrivers/EdXposed/releases)/[云盘]()      
 EdXposed Manager     
 [Github]()/[云盘]()      
 太极     
