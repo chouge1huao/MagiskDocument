@@ -44,6 +44,8 @@ Riru
 [Github]()/[云盘]()      
 Riru EdXposed     
 [Github]()/[云盘]()      
+EdXposed Manager     
+[Github]()/[云盘]()      
 太极     
 [Github]()/[云盘]()      
 Sui     
