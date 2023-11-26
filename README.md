@@ -19,7 +19,7 @@
 
 ### 此外     
 [Manager更新日志](Manager更新日志.md)
-[OTA升级指南](ota升级指南.md)
+[OTA升级指南](ota使用指南.md)
 
 ## Kitsune Mask(Magisk Delta)
 ![](1.png)
