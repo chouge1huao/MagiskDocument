@@ -53,4 +53,6 @@ EdXposed Manager
 太极     
 [Github]()/[云盘]()      
 Sui     
-[Github]()/[云盘]()      
+[Github](https://github.com/RikkaApps/Sui/releases)/[云盘]()      
+Shamiko        
+[Github](https://github.com/LSPosed/LSPosed.github.io/releases)/[云盘]()      
