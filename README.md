@@ -41,7 +41,7 @@ Kitsune Mask
 Magisk delta       
 [Github](https://github.com/HuskyDG/magisk-files-old/releases)/[云盘]()      
 Zygisk next       
-[Github]()/[云盘]()      
+[Github](https://github.com/Dr-TSNG/ZygiskNext/releases)/[云盘]()      
 Zygisk/Riru LSposed       
 [Github](https://github.com/LSPosed/LSPosed/releases)/[云盘]()      
 Riru     
