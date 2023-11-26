@@ -18,7 +18,7 @@
 [安卓引导方法](安卓引导.md)  
 
 ### 此外     
-[Manager更新日志](Manager更新日志)
+[Manager更新日志](Manager更新日志.md)
 [OTA升级指南](ota升级指南.md)
 
 ## Kitsune Mask(Magisk Delta)
