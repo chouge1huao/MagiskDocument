@@ -31,4 +31,8 @@
 [Magisk官方文档](https://topjohnwu.github.io/Magisk/)     
 [Magisk delta文档](https://huskydg.github.io/magisk-files/)     
 
-其余
+## 其余     
+### 下载(温馨提示:云盘只有最新版)      
+github下载慢可使用[github代理加速](https://moeyy.cn/gh-proxy/)       
+Magisk
+[]()/[]()
