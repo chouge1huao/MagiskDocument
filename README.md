@@ -37,7 +37,9 @@ github下载慢可使用[github代理加速](https://moeyy.cn/gh-proxy/)
 Magisk       
 [Github](https://github.com/topjohnwu/Magisk/releases)/[云盘]()       
 Kitsune Mask         
-[Github]()/[云盘]()      
+[Github](https://github.com/HuskyDG/magisk-files/releases)/[云盘]()      
+Magisk delta       
+[Github]()/[云盘]()
 Zygisk/Riru LSposed       
 [Github](https://github.com/LSPosed/LSPosed/releases)/[云盘]()      
 Riru     
