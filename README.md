@@ -39,13 +39,13 @@ Magisk
 Kitsune Mask         
 [Github]()/[云盘]()      
 Zygisk/Riru LSposed       
-[Github]()/[云盘]()      
+[Github](https://github.com/LSPosed/LSPosed/releases)/[云盘]()      
 Riru     
 [Github]()/[云盘]()      
 Riru EdXposed     
 [Github](https://github.com/ElderDrivers/EdXposed/releases)/[云盘]()      
 EdXposed Manager     
-[Github]()/[云盘]()      
+[Github](https://github.com/ElderDrivers/EdXposedManager/releases)/[云盘]()      
 太极     
 [Github]()/[云盘]()      
 Sui     
