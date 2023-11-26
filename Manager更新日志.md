@@ -451,7 +451,3 @@
 ## v1.0
 
 - 初始版本
-
-## 参考链接
-
-- [Magisk Manager Changelog](https://topjohnwu.github.io/Magisk/app_changes.html)（官方）
