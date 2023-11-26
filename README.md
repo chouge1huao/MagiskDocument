@@ -51,7 +51,7 @@ Riru EdXposed
 EdXposed Manager     
 [Github](https://github.com/ElderDrivers/EdXposedManager/releases)/[云盘]()      
 太极     
-[Github]()/[云盘]()      
+[Github](https://github.com/taichi-framework)/[云盘]()      
 Sui     
 [Github](https://github.com/RikkaApps/Sui/releases)/[云盘]()      
 Shamiko        
